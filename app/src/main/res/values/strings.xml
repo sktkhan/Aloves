@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NexaKit</string>
+    <!-- Replace with your real AdMob App ID from Google AdMob Console before Play Store release -->
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="tagline_subtitle">Smart Daily Problem Solver</string>
+    <string name="ad_banner_label">Sponsored</string>
+    <string name="ad_free_active">Ad-Free Pro Pass Active</string>
+</resources>

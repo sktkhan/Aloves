@@ -1,0 +1,6 @@
+{
+  "name": "NexaKit",
+  "description": "All-in-one everyday problem-solving toolkit with PDF maker, photo compressor, QR studio, financial & health calculators, unit converter, and AdMob monetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
